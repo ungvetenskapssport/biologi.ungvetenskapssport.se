@@ -1,2 +1,1 @@
-# biologi.ungvetenskapssport.se
-Ung Vetenskapssports Biologers hemsida
+# UVS Biologers hemsida
